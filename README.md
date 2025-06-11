@@ -2,7 +2,7 @@
 
 This project demonstrates a simple React app built with Vite, Tailwind CSS v4, and shadcn UI components, featuring path alias configuration.
 
-[![CI](https://github.com/ammar-iyyad/api-key-generator-frontend/actions/workflows/ci.yml/badge.svg)](https://github.com/ammar-iyyad/api-key-generator-frontend/actions/workflows/ci.yml)
+[![CI](https://github.com/ammar-iyyad/api-key-generator-frontend/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/ammar-iyyad/api-key-generator-frontend/actions/workflows/ci.yml)
 
 ---
 
