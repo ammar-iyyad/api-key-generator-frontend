@@ -1,26 +1,40 @@
+# Simple API Key Generator Frontend
 
-# Simple API key generator Front-end
+This project demonstrates a simple React app built with Vite, Tailwind CSS v4, and shadcn UI components, featuring path alias configuration.
 
-This project demonstrates a simple React app using Vite, Tailwind CSS v4, and shadcn UI components with path alias configured.
+[![CI](https://github.com/ammar-iyyad/api-key-generator-frontend/actions/workflows/ci.yml/badge.svg)](https://github.com/ammar-iyyad/api-key-generator-frontend/actions/workflows/ci.yml)
+
+---
+
+## Features
+
+- Simple and clean UI with [shadcn UI](https://ui.shadcn.com/)
+- Built with React and Vite for fast performance and developer experience
+- Styled with Tailwind CSS v4 for utility-first CSS styling
+- Path alias configured for cleaner imports
+- Easy to generate and manage API keys
 
 ---
 
 ## Setup and Commands
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+### Prerequisites
 
-Follow these steps:
+- [Node.js](https://nodejs.org/) (recommend using [nvm](https://github.com/nvm-sh/nvm#installing-and-updating) to manage Node versions)
+- npm (comes with Node.js)
+
+### Getting Started
 
 ```sh
-# Step 1: Clone the repository using the project's Git URL.
+# 1. Clone the repository
 git clone https://github.com/ammar-iyyad/api-key-generator-frontend.git
 
-# Step 2: Navigate to the project directory.
+# 2. Navigate into the project directory
 cd api-key-generator-frontend
 
-# Step 3: Install the necessary dependencies.
-npm i
+# 3. Install dependencies
+npm install
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# 4. Start the development server with hot reload
 npm run dev
-```
+****
