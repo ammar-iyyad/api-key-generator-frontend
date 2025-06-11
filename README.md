@@ -1,5 +1,5 @@
 
-# React + Vite + Tailwind CSS + shadcn UI Starter
+# Simple API key generator Front-end
 
 This project demonstrates a simple React app using Vite, Tailwind CSS v4, and shadcn UI components with path alias configured.
 
